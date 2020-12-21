@@ -1,1 +1,1 @@
-Current time with a dashboard
+Current time 

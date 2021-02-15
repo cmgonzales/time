@@ -1,1 +1,1 @@
-Current 
+Current time using javascript
